@@ -1,4 +1,4 @@
-const BASE_URL = "https://11tibi.github.io/";
+const BASE_URL = "https://11tibi.github.io/solar-system/";
 
 let planets = [];
 let sun;
