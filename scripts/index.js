@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8080/";
+const BASE_URL = "https://11tibi.github.io/";
 
 let planets = [];
 let sun;
