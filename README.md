@@ -11,6 +11,5 @@ Run
 ```
 npm install --global http-server
 http-server
-```
-
-Access http://localhost:8080/index.js 
+Access http://localhost:8080/index.js
+``` 
